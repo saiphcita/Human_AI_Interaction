@@ -1,0 +1,62 @@
+Assignment: Developing AI-Powered Web Plugins for Workplace Support
+
+Overview
+
+In this assignment, you will develop a web plugin that leverages generative AI to support workers in their specific job roles. 
+You shouldl also address critical aspects of responsible AI use, including ethical considerations, biases, and implications 
+for the workforce.
+
+Objectives
+1. Identify a Workplace Need: Select a specific job role and identify a key area where AI can offer support. This 
+could be anything from automating routine tasks, providing real-time data analysis, or assisting in creative processes.
+
+2. Design the Plugin: Outline the functionality of your web plugin, how it integrates with existing systems, and how 
+it utilizes generative AI. Consider user interface and experience in your design.
+
+3. Develop a Prototype: Create a basic prototype of your plugin. This can be a combination of mock-ups and functional code 
+demonstrating key features.
+
+4. Ethical Considerations and Responsible AI: Address the following aspects in your design and report:
+Bias Mitigation: How does your plugin account for and mitigate potential biases in AI-generated content or decisions?
+Privacy and Data Security: Outline measures to protect user data and privacy.
+Transparency and Accountability: Describe how your plugin maintains transparency in its AI processes and decisions.
+Impact on Workforce: Discuss the potential impact of your AI tool on the job roles it is designed to support.
+
+5. Testing and Feedback: Implement a testing phase for your plugin, gather feedback from potential users, and refine 
+your tool accordingly.
+
+6. Report: Compile a comprehensive report ON your plugin, its features, and addressing all the objectives of this assignment.
+
+Questions for Consideration
+
+1. What job role did you choose for your plugin, and why? How does generative AI specifically benefit this role?
+
+2. How does your plugin ensure that the AI-generated content or suggestions are unbiased and fair?
+
+3. Describe the measures implemented in your plugin to protect user privacy and data. How does your tool comply with 
+ relevant data protection laws (like GDPR)?
+
+4. How does your plugin maintain transparency in its AI-driven processes? Is there a feature that allows users to 
+understand how a certain output was generated?
+
+5. Discuss the potential impacts of your plugin on the workforce. Does it automate tasks, and if so, how might 
+this affect job roles?
+
+6. Reflect on any ethical dilemmas you encountered while designing your plugin. How did you address them?
+
+7. Based on the feedback received during testing, what were the major changes you made to your initial design?
+
+ Submission Requirements
+
+-Prototype: A functional or visual prototype of your plugin.
+-Final Report: A detailed document addressing all objectives and questions. Make sure to present your webpluging, 
+highlighting key features and findings.
+
+Evaluation Criteria
+- Innovation and Practicality: How innovative and practical is the AI application in the chosen job role?
+-Technical Implementation: Quality of the prototype and technical integration of AI.
+ -Ethical Considerations: Depth of analysis in addressing responsible AI use, bias, and ethical issues.
+-Clarity and Comprehensiveness: Effectiveness in communication through the report and presentation.
+-Feedback Integration: How well the student incorporated user feedback into the final design.
+
+
