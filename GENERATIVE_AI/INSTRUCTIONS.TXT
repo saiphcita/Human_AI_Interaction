@@ -38,8 +38,8 @@ users, and refine your tool accordingly.
 3. Describe the measures implemented in your plugin to protect user privacy and data. How does your tool 
 comply with relevant data protection laws (like GDPR)?
 
-4. How does your plugin maintain transparency in its AI-driven processes? Is there a feature that allows users to 
-understand how a certain output was generated?
+4. How does your plugin maintain transparency in its AI-driven processes? Is there a 
+feature that allows users to understand how a certain output was generated?
 
 5. Discuss the potential impacts of your plugin on the workforce. Does it automate tasks, and if so, how might 
 this affect job roles?
