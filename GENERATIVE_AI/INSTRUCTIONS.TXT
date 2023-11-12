@@ -22,13 +22,15 @@ mock-ups and functional code demonstrating key features.
 design and report:
    - Bias Mitigation: How does your plugin account for and mitigate potential biases in AI-generated content or decisions?
    - Privacy and Data Security: Outline measures to protect user data and privacy.
-   - Transparency and Accountability: Describe how your plugin maintains transparency in its AI processes and decisions.
+   - Transparency and Accountability: Describe how your plugin 
+     maintains transparency in its AI processes and decisions.
    - Impact on Workforce: Discuss the potential impact of your AI tool on the job roles it is designed to support.
 
 5. Testing and Feedback: Implement a testing phase for your plugin, gather feedback from potential 
 users, and refine your tool accordingly.
 
-6. Report: Compile a comprehensive report on your plugin, its features, and addressing all the objectives of this assignment.
+6. Report: Compile a comprehensive report on your plugin, its 
+features, and addressing all the objectives of this assignment.
 
 ## Questions for Consideration
 
