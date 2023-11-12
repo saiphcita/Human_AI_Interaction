@@ -8,8 +8,9 @@ considerations, biases, and implications for the workforce.
 
 ## Objectives
 
-1. Identify a Workplace Need: Select a specific job role and identify a key area where AI can offer support. 
-This could be anything from automating routine tasks, providing real-time data analysis, or assisting in creative processes.
+1. Identify a Workplace Need: Select a specific job role and identify a key 
+area where AI can offer support. This could be anything from automating routine tasks, providing real-time 
+data analysis, or assisting in creative processes.
 
 2. Design the Plugin: Outline the functionality of your web plugin, how it integrates with existing systems, 
 and how it utilizes generative AI. Consider user interface and experience in your design.
