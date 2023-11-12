@@ -14,7 +14,8 @@ This could be anything from automating routine tasks, providing real-time data a
 2. Design the Plugin: Outline the functionality of your web plugin, how it integrates with existing systems, 
 and how it utilizes generative AI. Consider user interface and experience in your design.
 
-3. Develop a Prototype: Create a basic prototype of your plugin. This can be a combination of mock-ups and functional code demonstrating key features.
+3. Develop a Prototype: Create a basic prototype of your plugin. This can be a combination of 
+mock-ups and functional code demonstrating key features.
 
 4. Ethical Considerations and Responsible AI: Address the following aspects in your design and report:
    - Bias Mitigation: How does your plugin account for and mitigate potential biases in AI-generated content or decisions?
@@ -22,7 +23,8 @@ and how it utilizes generative AI. Consider user interface and experience in you
    - Transparency and Accountability: Describe how your plugin maintains transparency in its AI processes and decisions.
    - Impact on Workforce: Discuss the potential impact of your AI tool on the job roles it is designed to support.
 
-5. Testing and Feedback: Implement a testing phase for your plugin, gather feedback from potential users, and refine your tool accordingly.
+5. Testing and Feedback: Implement a testing phase for your plugin, gather feedback from potential 
+users, and refine your tool accordingly.
 
 6. Report: Compile a comprehensive report on your plugin, its features, and addressing all the objectives of this assignment.
 
@@ -32,11 +34,13 @@ and how it utilizes generative AI. Consider user interface and experience in you
 
 2. How does your plugin ensure that the AI-generated content or suggestions are unbiased and fair?
 
-3. Describe the measures implemented in your plugin to protect user privacy and data. How does your tool comply with relevant data protection laws (like GDPR)?
+3. Describe the measures implemented in your plugin to protect user privacy and data. How does your tool 
+comply with relevant data protection laws (like GDPR)?
 
 4. How does your plugin maintain transparency in its AI-driven processes? Is there a feature that allows users to understand how a certain output was generated?
 
-5. Discuss the potential impacts of your plugin on the workforce. Does it automate tasks, and if so, how might this affect job roles?
+5. Discuss the potential impacts of your plugin on the workforce. Does it automate tasks, and if so, how might 
+this affect job roles?
 
 6. Reflect on any ethical dilemmas you encountered while designing your plugin. How did you address them?
 
@@ -45,7 +49,8 @@ and how it utilizes generative AI. Consider user interface and experience in you
 ## Submission Requirements
 
 - Prototype: A functional or visual prototype of your plugin.
-- Final Report: A detailed document addressing all objectives and questions. Make sure to present your web plugin, highlighting key features and findings.
+- Final Report: A detailed document addressing all objectives and questions. Make sure to present your web plugin, 
+highlighting key features and findings.
 
 ## Evaluation Criteria
 
