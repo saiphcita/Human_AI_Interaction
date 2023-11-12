@@ -7,25 +7,26 @@ You shouldl also address critical aspects of responsible AI use, including ethic
 for the workforce.
 
 Objectives
-1. Identify a Workplace Need: Select a specific job role and identify a key area where AI can offer support. This 
-could be anything from automating routine tasks, providing real-time data analysis, or assisting in creative processes.
+1. Identify a Workplace Need: Select a specific job role and identify a key area where AI can offer support. This could be anything from automating routine tasks, 
+providing real-time data analysis, or assisting in creative processes.
 
-2. Design the Plugin: Outline the functionality of your web plugin, how it integrates with existing systems, and how 
-it utilizes generative AI. Consider user interface and experience in your design.
+2. Design the Plugin: Outline the functionality of your web plugin, how it integrates 
+with existing systems, and how it utilizes generative AI. Consider user interface and experience in your design.
 
-3. Develop a Prototype: Create a basic prototype of your plugin. This can be a combination of mock-ups and functional code 
-demonstrating key features.
+3. Develop a Prototype: Create a basic prototype of your plugin. This can be a 
+combination of mock-ups and functional code demonstrating key features.
 
-4. Ethical Considerations and Responsible AI: Address the following aspects in your design and report:
-Bias Mitigation: How does your plugin account for and mitigate potential biases in AI-generated content or decisions?
-Privacy and Data Security: Outline measures to protect user data and privacy.
-Transparency and Accountability: Describe how your plugin maintains transparency in its AI processes and decisions.
-Impact on Workforce: Discuss the potential impact of your AI tool on the job roles it is designed to support.
+4. Ethical Considerations and Responsible AI: Address the following aspects in 
+your design and report:
+ -Bias Mitigation: How does your plugin account for and mitigate potential biases in AI-generated content or decisions?
+-Privacy and Data Security: Outline measures to protect user data and privacy.
+-Transparency and Accountability: Describe how your plugin maintains transparency in its AI processes and decisions.
+-Impact on Workforce: Discuss the potential impact of your AI tool on the job roles it is designed to support.
 
 5. Testing and Feedback: Implement a testing phase for your plugin, gather feedback from potential users, and refine 
 your tool accordingly.
 
-6. Report: Compile a comprehensive report ON your plugin, its features, and addressing all the objectives of this assignment.
+6. Report: Compile a comprehensive report on your plugin, its features, and addressing all the objectives of this assignment.
 
 Questions for Consideration
 
