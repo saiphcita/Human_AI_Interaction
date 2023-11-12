@@ -2,13 +2,17 @@
 
 ## Overview
 
-In this assignment, you will develop a web plugin that leverages generative AI to support workers in their specific job roles. You should also address critical aspects of responsible AI use, including ethical considerations, biases, and implications for the workforce.
+In this assignment, you will develop a web plugin that leverages generative AI to support workers in 
+their specific job roles. You should also address critical aspects of responsible AI use, including ethical 
+considerations, biases, and implications for the workforce.
 
 ## Objectives
 
-1. Identify a Workplace Need: Select a specific job role and identify a key area where AI can offer support. This could be anything from automating routine tasks, providing real-time data analysis, or assisting in creative processes.
+1. Identify a Workplace Need: Select a specific job role and identify a key area where AI can offer support. 
+This could be anything from automating routine tasks, providing real-time data analysis, or assisting in creative processes.
 
-2. Design the Plugin: Outline the functionality of your web plugin, how it integrates with existing systems, and how it utilizes generative AI. Consider user interface and experience in your design.
+2. Design the Plugin: Outline the functionality of your web plugin, how it integrates with existing systems, 
+and how it utilizes generative AI. Consider user interface and experience in your design.
 
 3. Develop a Prototype: Create a basic prototype of your plugin. This can be a combination of mock-ups and functional code demonstrating key features.
 
